@@ -2,4 +2,10 @@
 (Ivanov) hello teacher )))
 (Stolyarov) hello teacher)))
 (Polivach) Hello people
+1979Lex1979-patch-1
 (belokurov) Hi
+(Fedorov) Hello team!
+(isaev) hello qa521
+(Zhukov) Hello people!!!
+(Hurmatullin) Hello there
+(Doroshenkova) HELLO QA521!!!!
