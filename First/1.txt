@@ -11,3 +11,4 @@ patch-2
 (Doroshenkova) HELLO QA521!!!!
 (Zlydarev) Hello 
 Belokurov) hello QA521
+HELLO! (lory-ui)
