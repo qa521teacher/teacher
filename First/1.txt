@@ -6,4 +6,8 @@
 (isaev) hello qa521
 (Zhukov) Hello people!!!
 (Hurmatullin) Hello there
+patch-2
 (Marchenkova) Hello
+(Doroshenkova) HELLO QA521!!!!
+(Zlydarev) Hello 
+Belokurov) hello QA521
