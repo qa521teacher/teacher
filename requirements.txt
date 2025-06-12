@@ -1,0 +1,5 @@
+allure_python_commons==2.13.5
+Faker==29.0.0
+pytest==8.3.4
+selenium==4.33.0
+webdriver_manager==4.0.2
